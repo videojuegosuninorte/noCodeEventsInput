@@ -1,0 +1,33 @@
+{
+    "name": "Actions",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "11741e18-0818-4816-b0df-adfa21908435",
+            "actions": [
+                {
+                    "name": "TriggerAction",
+                    "type": "Button",
+                    "id": "150319cf-725a-4d02-941f-ac09ff032eaa",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "def00a37-0e3b-4258-9e77-88752bf810c2",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "TriggerAction",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
