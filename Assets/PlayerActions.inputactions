@@ -1,14 +1,14 @@
 {
-    "name": "Actions",
+    "name": "PlayerActions",
     "maps": [
         {
-            "name": "Player",
-            "id": "11741e18-0818-4816-b0df-adfa21908435",
+            "name": "PlayerActionMap",
+            "id": "08171c4c-66d7-431f-8228-f8e5396a2e67",
             "actions": [
                 {
-                    "name": "TriggerAction",
+                    "name": "releaseTrigger",
                     "type": "Button",
-                    "id": "150319cf-725a-4d02-941f-ac09ff032eaa",
+                    "id": "4337edd0-61b3-4031-931a-4b373a4b6a60",
                     "expectedControlType": "Button",
                     "processors": "",
                     "interactions": ""
@@ -17,12 +17,12 @@
             "bindings": [
                 {
                     "name": "",
-                    "id": "def00a37-0e3b-4258-9e77-88752bf810c2",
+                    "id": "723d51d4-c997-4b4d-8280-8a24fac8e0d4",
                     "path": "<Keyboard>/space",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "TriggerAction",
+                    "action": "releaseTrigger",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
